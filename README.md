@@ -16,7 +16,7 @@ Forked just for checklist purpose :3
 12. [ ] [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 13. [ ] [Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
 14. [ ] [More Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
-15. [ ] [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
+15. [x] [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
 16. [ ] [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) by Jon Bentley
 17. [ ] [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
 18. [ ] [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
